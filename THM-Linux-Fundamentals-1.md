@@ -130,4 +130,4 @@ echo tryhackme >> passwords
 > -  Power up your commands by learning about some of the important shell operators.
 
 ---
-[[THM Linux Fundamentals 2]]
+[[THM-Linux-Fundamentals-2]]

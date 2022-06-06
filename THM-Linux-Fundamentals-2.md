@@ -144,4 +144,4 @@ THM{SU_USER2}
 > - A summary paragraph of the important root directories on a Ubuntu Linux install and how we may be able to use the data stored within these.
 
 ---
-[[THM Linux Fundamentals 3]]
+[[THM-Linux-Fundamentals-3]]

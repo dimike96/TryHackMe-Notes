@@ -1,10 +1,10 @@
-# THM Rooms To-Do
+# THM Free and Available Rooms
 
 ---
 
 List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d
 
-*Some of those have been made private or unavailable so this is just ones I have verified are still open as of (06/22)*
+*Some of those have been made private or unavailable so this catalogs ones I have verified are still open as of (06/22)*
 
 > Michael Jack | 06/2022
 

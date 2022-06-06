@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f37fd1095ce46830",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ae8c6acbdaf141",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Updated-Free-Room-List.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4c0fe1d0a8d8379",
+    "type": "split",
+    "children": [
+      {
+        "id": "1213d66999aaef74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4558528b39017831",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a05442803303441",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a5f786417231b03",
+    "type": "split",
+    "children": [
+      {
+        "id": "11fc45f9054a59bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19c115b98de8785",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Updated-Free-Room-List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "06ae8c6acbdaf141",
+  "lastOpenFiles": [
+    "Updated-Free-Room-List.md",
+    "THM-Python-Basics.md",
+    "THM-Regular-Expressions.md",
+    "THM-Principles-of-Security.md",
+    "THM-Pentesting-Fundamentals.md",
+    "THM-Nmap-Live-Host-Discovery.md",
+    "THM-Nmap.md",
+    "THM-Linux-Fundamentals-3.md",
+    "THM-Linux-Fundamentals-2.md",
+    "THM-Linux-Fundamentals-1.md"
+  ]
+}

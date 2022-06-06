@@ -41,35 +41,29 @@ THM{TEXT_EDITORS}
 ## Task 4 - General/Useful Utilities
 
 - Downloading files
-  
-  - ```shell
-    wget https://domain.com/path/to/file.extension
-    ```
+  - ```wget https://domain.com/path/to/file.extension```
 
 - Transfering files from your host - SCP (SSH)
-  
+
   - Secure copy (SCP) allows transfering files between to computers using the SSH protocol to provide authentication and encryption.
-  
-  - ```shell
-    scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt
-    ```
-  
+
+  - ```scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt```
+
   - ^ copies important.txt from the local machine to transferred.tx in the /home/ubuntu directory of the remote machine
-  
-  - ```shell
-    scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt 
-    ```
-  
+
+  - ```scp ubuntu@192.168.1.30:/home/ubuntu/documents.txt notes.txt```
+
   - ^ Tranfers /home/ubuntu/documents.txt from a remote machine to a notes.txt on our local machine.
 
 - Serving files from your host - WEB
-  
+
   - > Ubuntu machines come pre-packaged with python3. Python helpfully 
+
     > provides a lightweight and easy-to-use module called "HTTPServer". This 
     > module turns your computer into a quick and easy web server that you can
     >  use to serve your own files, where they can then be downloaded by 
     > another computing using commands such as `curl` and `wget`.
-  
+
   - All we need to start the module is `python3 -m  http.server`
     
     - Will start from the working directory by default. See man page for HTTPServer.
