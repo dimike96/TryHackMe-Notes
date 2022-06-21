@@ -1,10 +1,10 @@
-# THM Free and Available Rooms
+# THM Rooms To-Do
 
 ---
 
 List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954b8d
 
-*Some of those have been made private or unavailable so this catalogs ones I have verified are still open as of (06/22)*
+*Some of those have been made private or unavailable so this is just ones I have verified are still open as of (06/22). You can search for free rooms on the site but I wanted an easier list of rooms grouped by learning area.*
 
 > Michael Jack | 06/2022
 
@@ -20,6 +20,10 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
+- [ ] [TryHackMe | Relevant](https://tryhackme.com/room/relevant)
+
+- [ ] [TryHackMe | Internal](https://tryhackme.com/room/internal)
+
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 ---
@@ -32,9 +36,15 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 
 - [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
+- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
+
+- [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
+
+- [ ] 
 
 ---
 
@@ -59,6 +69,8 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 - [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
 - [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
+
+- [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
 ---
 
@@ -94,11 +106,21 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 
 - [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
-- [ ] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+- [ ] [TryHackMe | Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
+
+- [ ] [TryHackMe | Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
+
+- [ ] [TryHackMe | Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
+
+- [ ] [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
+
+- [ ] 
 
 ---
 
 ### Malware
+
+- [ ] [TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
 - [ ] [TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
@@ -127,6 +149,8 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
 - [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+
+- [ ] [TryHackMe | Wreath](https://tryhackme.com/room/wreath)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -166,6 +190,10 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
+- [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+
+- [ ] 
+
 ---
 
 ### Recon
@@ -173,6 +201,10 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+
+- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+
+- [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
 - [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
@@ -187,6 +219,8 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+
+- [ ] [TryHackMe | MITRE](https://tryhackme.com/room/mitre)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
@@ -217,6 +251,10 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 - [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
 
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
+
+- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+
+- [ ] 
 
 #### Stegonography
 
@@ -260,6 +298,10 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 
 - [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
+- [ ] [TryHackMe | Introduction to Django](https://tryhackme.com/room/django)
+
+- [ ] 
+
 ---
 
 ### Scripting
@@ -283,6 +325,8 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 ---
 
 ### Reverse Engineering
+
+- [ ] [TryHackMe | Windows Reversing Intro](https://tryhackme.com/room/windowsreversingintro)
 
 - [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
@@ -316,7 +360,9 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 
 ---
 
-### PrivEsc
+### PrivEsc / Post Expoitation
+
+- [ ] [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
 
 - [ ] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linprivesc)
 
@@ -331,3 +377,49 @@ List of free rooms: https://sm4rty.medium.com/free-350-tryhackme-rooms-f3b7b2954
 - [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
 ---
+
+### CTF / "In Action"
+
+- [ ] [TryHackMe | Anonymous](https://tryhackme.com/room/anonymous)
+
+- [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
+
+- [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
+
+- [ ] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
+
+- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+
+- [ ] [TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+
+- [ ] [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
+
+- [ ] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
+
+- [ ] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
+
+- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+
+- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+
+- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+
+- [ ] [TryHackMe | Daily Bugle](https://tryhackme.com/room/dailybugle)
+
+- [ ] [TryHackMe | Wonderland](https://tryhackme.com/room/wonderland)
+
+- [ ] [TryHackMe | Startup](https://tryhackme.com/room/startup)
+
+- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+
+- [ ] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
+
+- [ ] [TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
+
+---
+
+### Uncategorized
+
+- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+
+- [ ] 

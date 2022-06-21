@@ -721,5 +721,5 @@ Local Cache
 [[Networking-Refresher]]
 
 [[THM-Nmap-Live-Host-Discovery]]
-[[General Linux/Command Reference Library/nmap]]
+[[General-Skills/Linux/Command Reference Library/nmap]]
 [[ping]]

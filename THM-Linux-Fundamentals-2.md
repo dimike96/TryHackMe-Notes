@@ -1,4 +1,5 @@
 # THM Linux Fundamentals 2
+
 [TryHackMe | Login](https://tryhackme.com/jr/linuxfundamentalspart2)
 
 > Michael Jack | 06/2022
@@ -144,4 +145,5 @@ THM{SU_USER2}
 > - A summary paragraph of the important root directories on a Ubuntu Linux install and how we may be able to use the data stored within these.
 
 ---
+
 [[THM-Linux-Fundamentals-3]]

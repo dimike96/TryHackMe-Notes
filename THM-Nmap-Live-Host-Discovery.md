@@ -358,5 +358,5 @@ TCP ACK ping
 > Remember to add `-sn` if you are only interested in host discovery without port-scanning. Omitting `-sn` will let Nmap default to port-scanning the live hosts.
 
 ---
-[[General Linux/Command Reference Library/nmap]]
+[[General-Skills/Linux/Command Reference Library/nmap]]
 [[THM-Nmap]]

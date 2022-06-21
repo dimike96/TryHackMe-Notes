@@ -1,4 +1,5 @@
 # THM Linux Fundamentals 1
+
 [TryHackMe | Login](https://tryhackme.com/jr/linuxfundamentalspart1)
 
 > Michael Jack | 06/2022
@@ -130,4 +131,5 @@ echo tryhackme >> passwords
 > -  Power up your commands by learning about some of the important shell operators.
 
 ---
+
 [[THM-Linux-Fundamentals-2]]
